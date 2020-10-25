@@ -1840,3 +1840,7 @@ section {
     padding-top: 4px;
   }
 }
+
+#border{
+  border-radius: 200%;
+}
